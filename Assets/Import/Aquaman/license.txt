@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aquaman (Jason Momoa)
+* source:	https://sketchfab.com/3d-models/aquaman-jason-momoa-c3f13bbc4f98488db53ecc711fdd6894
+* author:	DavidA3D (https://sketchfab.com/DavidA3D)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aquaman (Jason Momoa)" (https://sketchfab.com/3d-models/aquaman-jason-momoa-c3f13bbc4f98488db53ecc711fdd6894) by DavidA3D (https://sketchfab.com/DavidA3D) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

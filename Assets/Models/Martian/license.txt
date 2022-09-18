@@ -1,0 +1,11 @@
+Model Information:
+* title:	Martian Manhunter
+* source:	https://sketchfab.com/3d-models/martian-manhunter-fa7f9c23870e4f88a671d3aad8ac804c
+* author:	fpernudo (https://sketchfab.com/fpernudo)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Martian Manhunter" (https://sketchfab.com/3d-models/martian-manhunter-fa7f9c23870e4f88a671d3aad8ac804c) by fpernudo (https://sketchfab.com/fpernudo) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

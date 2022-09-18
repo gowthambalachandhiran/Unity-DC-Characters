@@ -1,0 +1,4 @@
+./Library/ArtifactDB
+./Library/PackageCache/com.ptc.vuforia.engine@7c95fcfcb02e/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine
+./Library/PackageCache/com.ptc.vuforia.engine@7c95fcfcb02e/Vuforia/Plugins/OSXUniversal/universal/VuforiaEngine.bundle/Contents/MacOS/VuforiaEngine
+./Packages/com.ptc.vuforia.engine-10.9.3.tgz

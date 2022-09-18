@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="SupermanNew" size="10.000000 5.630000" />
+    <ImageTarget name="JokerLogo" size="10.000000 5.633333" />
+    <ImageTarget name="MartianManhunter" size="10.000000 5.000000" />
+    <ImageTarget name="BatmanLogo" size="10.000000 7.820324" />
+  </Tracking>
+</QCARConfig>
